@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 59.1 (86144) - https://sketch.com -->
+    <title>Base / TGI Logo / Negative</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="0 0.577976642 6.16922689 0.577976642 6.16922689 13.2658137 0 13.2658137"></polygon>
+        <polygon id="path-3" points="0.676982547 0.167569937 13.4509785 0.167569937 13.4509785 18.1534099 0.676982547 18.1534099"></polygon>
+    </defs>
+    <g id="Base-/-TGI-Logo-/-Negative" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="GI-Custom-/-Logo-/-Negative" transform="translate(2.625000, 0.000000)">
+            <g id="Group-13" transform="translate(0.421875, 0.705271)">
+                <path d="M5.93462897,9.32449898 C5.93462897,9.32449898 6.20762833,8.16756821 7.66827962,5.93190596 C9.42776396,3.24171026 5.29786321,-6.98208072e-05 5.29786321,-6.98208072e-05 C5.29786321,-6.98208072e-05 6.36332873,1.83901024 4.57102861,4.10818648 C3.72619684,6.07503862 5.93462897,9.32449898 5.93462897,9.32449898" id="Fill-1" fill-opacity="0.5" fill="#FEFEFE"></path>
+                <path d="M7.31498633,5.73989874 C8.88316166,2.97429657 5.29786321,-6.98208072e-05 5.29786321,-6.98208072e-05 C5.29786321,-6.98208072e-05 5.52617725,0.841969114 3.91610944,3.58453042 C2.303947,6.32639352 5.93462897,9.32449898 5.93462897,9.32449898 C5.93462897,9.32449898 5.75030204,8.50480271 7.31498633,5.73989874 Z" id="Fill-3" fill="#FEFEFE"></path>
+                <g id="Group-7" transform="translate(0.000000, 9.382939)">
+                    <mask id="mask-2" fill="white">
+                        <use xlink:href="#path-1"></use>
+                    </mask>
+                    <g id="Clip-6"></g>
+                    <polygon id="Fill-5" fill="#FEFEFE" mask="url(#mask-2)" points="6.16922689 13.2658137 -0.000139641614 0.577976642 4.86567241 4.31548445"></polygon>
+                </g>
+                <polygon id="Fill-8" fill-opacity="0.5" fill="#FEFEFE" points="7.04296447 12.1589445 0.000139641614 9.96098546 4.8659517 13.6984933"></polygon>
+                <g id="Group-12" transform="translate(4.189248, 4.495482)">
+                    <mask id="mask-4" fill="white">
+                        <use xlink:href="#path-3"></use>
+                    </mask>
+                    <g id="Clip-11"></g>
+                    <polygon id="Fill-10" fill-opacity="0.8" fill="#FEFEFE" mask="url(#mask-4)" points="0.676982547 9.2030806 13.4513974 0.167569937 1.98053702 18.1534099"></polygon>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

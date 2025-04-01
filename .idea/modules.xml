@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/range_of_motion.iml" filepath="$PROJECT_DIR$/range_of_motion.iml" />
+      <module fileurl="file://$PROJECT_DIR$/android/range_of_motion_android.iml" filepath="$PROJECT_DIR$/android/range_of_motion_android.iml" />
+    </modules>
+  </component>
+</project>

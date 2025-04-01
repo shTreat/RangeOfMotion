@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="71px" height="71px" viewBox="0 0 71 71" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 59.1 (86144) - https://sketch.com -->
+    <title>Slice</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Screens-TGI-Purple" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group" transform="translate(0.500000, 0.500000)">
+            <circle id="Oval" fill="#E6E6E6" cx="35" cy="35" r="35"></circle>
+            <path d="M35,35 C39.42,35 43,31.42 43,27 C43,22.58 39.42,19 35,19 C30.58,19 27,22.58 27,27 C27,31.42 30.58,35 35,35 Z" id="Path" fill="#AFAFAF"></path>
+            <path d="M35,39 C29.66,39 19,41.68 19,47 L19,51 L51,51 L51,47 C51,41.68 40.34,39 35,39 Z" id="Path" fill="#AFAFAF"></path>
+        </g>
+    </g>
+</svg>

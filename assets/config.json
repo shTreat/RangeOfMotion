@@ -1,0 +1,30 @@
+{
+    "data": {
+        "openMrsUrl": "https://hw-openmrsapi-id-test.george-health.com/openmrs/ws/rest/v1",
+        "apiUrlTest": "https://api-id-test-in-treat.georgeinstitute.org",
+        "apiUrl": "https://api-id-test-in-treat.georgeinstitute.org",
+        "healthTrackerUrl": "https://healthtracker-dev.georgeinstitute.org/api/",
+        "healthTrackerRulesets": {
+            "patientScreeningRuleset": "0204e1b3-9b72-44f5-9f59-08d797dc958e"
+        },
+        "fieldWorkerType": "eKader",
+        "physiotherapist_uuid": "2b4f0e7b-8d87-4648-a7f7-780cf3e29c1a",
+        "surgeon_uuid": "ec957e22-24c0-4805-ba33-9c2d1c75f928",
+        "minPatientAge": 15,
+        "features": {
+            "fieldWorkerHomeTab": true,
+            "fieldWorkerEducationTab": false,
+            "fieldWorkerHealthCampTab": false,
+            "fieldWorkerTrainingTab": false,
+            "fieldWorkerPatientScreeningTab": true,
+            "fieldWorkerFollowUpTab": true,
+            "fieldWorkerResourcesTab": true,
+            "fieldWorkerSettingsTab": true
+        },
+        "morbidity_pain_id": 69,
+        "morbidity_exercise_diary_id": 68,
+        "morbidity_activity_id": 70,
+        "morbidity_knee_function_id": 71,
+        "morbidity_rom_id": 75
+    }
+}
